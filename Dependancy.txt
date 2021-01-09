@@ -1,0 +1,6 @@
+npm init --yes
+npm install express
+set PORT=[available port address, default=3000]
+npm i -g nodemon
+npm i joi
+npm install sqlite3
